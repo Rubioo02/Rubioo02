@@ -38,6 +38,9 @@
   <a href="https://github.com/Rubioo02?tab=repositories&q=&type=&language=shell&sort=">
    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/shell_script-%23121011.svg" alt="BASH">
   </a>
+  <a href="https://github.com/Rubioo02?tab=repositories&q=&type=&language=go&sort=">
+   <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/Go-00ADD8.svg" alt="GO">
+  </a>
   <a href="https://github.com/Rubioo02?tab=repositories&q=&type=&language=html&sort=">
    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/html5-%23E34F26.svg" alt="HTML5">
   </a>
