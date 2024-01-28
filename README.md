@@ -75,9 +75,6 @@
  <a href="https://neovim.io/">
    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/NeoVim-%2357A143.svg" alt="NVIM">
  </a>
- <a href="https://www.jetbrains.com/es-es/pycharm/">
-  <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/pycharm-143.svg" alt="PyCharm">
- </a>
 
 <br/>
 
