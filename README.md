@@ -58,12 +58,6 @@
   <a href="https://github.com/Rubioo02">
    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/github-%23121011.svg" alt="Github">
   </a>
-  <a href="https://ohmyz.sh/">
-    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/Zsh-F15A24.svg" alt="ZSH">
-  </a>
-  <a href="https://www.microsoft.com/es-es/microsoft-365/access">
-   <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/Microsoft_Access-A4373A.svg" alt="Access">
-  </a>
   
   
   <h4>IDEs:</h4>
