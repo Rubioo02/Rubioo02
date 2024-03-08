@@ -47,9 +47,6 @@
   <a href="https://github.com/Rubioo02?tab=repositories&q=&type=&language=css&sort=">
    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/css3-%231572B6.svg" alt="CSS3">
   </a>
-  <a href="https://github.com/Rubioo02?tab=repositories&q=&type=&language=markdown&sort=">
-   <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/markdown-%23000000.svg" alt="MD">
-  </a>
    
   <h4>Tools and Technologies:</h4>
   <a href="https://www.docker.com/">
