@@ -47,25 +47,6 @@
   <a href="https://github.com/Rubioo02?tab=repositories&q=&type=&language=css&sort=">
    <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/css3-%231572B6.svg" alt="CSS3">
   </a>
-   
-  <h4>Tools and Technologies:</h4>
-  <a href="https://www.docker.com/">
-   <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/docker-%230db7ed.svg" alt="Docker">
-  </a>
-  <a href="https://github.com/Rubioo02">
-   <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/github-%23121011.svg" alt="Github">
-  </a>
-  
-  
-  <h4>IDEs:</h4>
-  
-  
- <a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/Visual Studio Code-0078d7.svg" alt="VSC">
- </a>
- <a href="https://neovim.io/">
-   <img src="https://raw.githubusercontent.com/Rubioo02/Rubioo02/main/svg/NeoVim-%2357A143.svg" alt="NVIM">
- </a>
 
 <br/>
 
